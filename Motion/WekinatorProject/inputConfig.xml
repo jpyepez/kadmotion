@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<OSCInputGroup>
+  <oscMessage>/motion</oscMessage>
+  <numInputs>3</numInputs>
+  <groupName>Inputs</groupName>
+  <inputNames>
+    <string>global_motion</string>
+    <string>motion_L</string>
+    <string>motion_R</string>
+  </inputNames>
+</OSCInputGroup>
